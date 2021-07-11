@@ -25,6 +25,7 @@ export default function SidebarChat({
           {/* <p>last ms</p> */}
         </div>
       </div>
+      
     </Link>
   ) : (
     <div onClick={createChat} className="sidebarChat">
